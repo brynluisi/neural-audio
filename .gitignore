@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore Mac system files
+.DS_store
+
+# Ignore Data
+data
+
 # C extensions
 *.so
 

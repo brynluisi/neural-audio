@@ -3,13 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 .idea
-output/
 # Ignore Mac system files
 .DS_store
 
 # Ignore data
 data
-
 # C extensions
 *.so
 

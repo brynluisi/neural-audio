@@ -7,7 +7,7 @@ output/
 # Ignore Mac system files
 .DS_store
 
-# Ignore Data
+# Ignore data
 data
 
 # C extensions
